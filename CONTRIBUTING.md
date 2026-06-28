@@ -1,4 +1,4 @@
-# Contributing to haveibeenpwned-checker
+# Contributing to faang-haveibeenpwned-checker
 
 Thank you for your interest in contributing!
 

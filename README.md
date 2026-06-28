@@ -1,6 +1,6 @@
 # Check if you have been hacked
 
-[![CI](https://github.com/JJ-Dynamite/haveibeenpwned-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/haveibeenpwned-checker/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-haveibeenpwned-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-haveibeenpwned-checker/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Check if you have been hacked - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/haveibeenpwned-checker.git
+git clone https://github.com/JJ-Dynamite/faang-haveibeenpwned-checker.git
 cd haveibeenpwned-checker
 
 # Install backend dependencies

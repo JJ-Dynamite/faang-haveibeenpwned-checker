@@ -1,5 +1,5 @@
 {
-  "name": "haveibeenpwned-checker-frontend",
+  "name": "faang-haveibeenpwned-checker-frontend",
   "version": "0.1.0",
   "private": true,
   "description": "Check if you have been hacked - Frontend",
