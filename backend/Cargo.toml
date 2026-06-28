@@ -1,11 +1,11 @@
 [package]
-name = "faang-haveibeenpwned-checker-backend"
+name = "haveibeenpwnedchecker-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Check if you have been hacked - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-haveibeenpwned-checker"
+repository = "https://github.com/JJ-Dynamite/haveibeenpwnedchecker"
 
 [dependencies]
 axum = "0.7"
